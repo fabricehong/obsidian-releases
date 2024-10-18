@@ -13571,5 +13571,12 @@
         "author": "Sean McOwen",
         "description": "Speeds up some note taking abilities and allows for creating notes/links in the background",
         "repo": "SeanMcOwen/Quick-Note-Obsidian-Plugin"
+    },
+    {
+      "id": "prompt-crafter",
+      "name": "PromptCrafter",
+      "author": "Fabrice Hong",
+      "description": "Create reusable, modular prompts in Obsidian.",
+      "repo": "fabricehong/obsidian-prompt-crafter-plugin"
     }
 ]
